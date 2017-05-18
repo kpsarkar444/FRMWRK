@@ -11,7 +11,6 @@ import com.dell.util.BrowserDriver;
 
 public class WebComponent 
 {
-	
 	public static int syncTime = 60;
 	public static WebDriver driver = BrowserDriver.driver;
 	
